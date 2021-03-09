@@ -6,8 +6,8 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
 
 - Applied  
   2.8 - College [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/02.08%20%28P%29%20-%20College.ipynb) , [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.08%20%28R%29%20-%20College.ipynb)]  
-  2.9 - Auto [[Python]() , [R](https://rpubs.com/rahul-ahuja/islr-02-09)]  
-  2.10 - Boston [[Python]() , [R]()]  
+  2.9 - Auto [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/02.09%20%28P%29%20-%20Auto.ipynb) , [R](https://rpubs.com/rahul-ahuja/islr-02-09)]  
+  2.10 - Boston [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/02.10%20%28P%29%20-%20Boston.ipynb) , [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.10%20%28R%29%20-%20Boston.ipynb)]  
 
 
 
