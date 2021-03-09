@@ -6,6 +6,8 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
 
 - Applied  
   2.8 - College [[]() , []()]
+  2.9 - Auto [[]() , []()]
+  2.10 - Boston [[]() , []()]
 
 
 
