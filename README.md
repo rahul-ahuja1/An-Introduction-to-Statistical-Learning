@@ -5,9 +5,9 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
 - Conceptual   [[github](https://github.com/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.01-07%20-%20Statistical%20Learning%20-%20Conceptual%20Exercises.ipynb) , [nbviewer](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.01-07%20-%20Statistical%20Learning%20-%20Conceptual%20Exercises.ipynb)]
 
 - Applied  
-  2.8 - College [[]() , []()]  
-  2.9 - Auto [[]() , []()]  
-  2.10 - Boston [[]() , []()]  
+  2.8 - College [[Python]() , [R]()]  
+  2.9 - Auto [[Python]() , [R]()]  
+  2.10 - Boston [[Python]() , [R]()]  
 
 
 
