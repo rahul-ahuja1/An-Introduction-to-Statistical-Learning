@@ -30,4 +30,4 @@ __Code help sources: R__
 - https://github.com/asadoughi/stat-learning/
 
 
-<p align="center"><b>-------------------------------------------- &ensp; <i>That's All Folks!</i> &ensp; --------------------------------------------</b></p>
+
