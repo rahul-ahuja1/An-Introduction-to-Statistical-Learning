@@ -6,7 +6,7 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
 
 - Applied  
   2.8 - College [[Python]() , [R]()]  
-  2.9 - Auto [[Python]() , [R]()]  
+  2.9 - Auto [[Python]() , [R](https://rpubs.com/rahul-ahuja/islr-02-09)]  
   2.10 - Boston [[Python]() , [R]()]  
 
 
