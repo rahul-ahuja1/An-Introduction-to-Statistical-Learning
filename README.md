@@ -10,6 +10,8 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
   2.10 - Boston [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/02.10%20%28P%29%20-%20Boston.ipynb) , [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.10%20%28R%29%20-%20Boston.ipynb)]  
 
 
+### Chapter 03 - Linear Regression
+- Conceptual   [[github](https://github.com/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.01-07%20-%20Linear%20Regression%20-%20Conceptual%20Exercises.ipynb) , [nbviewer]()]
 
 
 
@@ -26,3 +28,6 @@ __Code help sources: R__
 - https://rpubs.com/ppaquay
 - https://altaf-ali.github.io/ISLR/index.html
 - https://github.com/asadoughi/stat-learning/
+
+
+<p align="center"><b>-------------------------------------------- &ensp; <i>That's All Folks!</i> &ensp; --------------------------------------------</b></p>
