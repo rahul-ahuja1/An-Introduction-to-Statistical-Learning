@@ -11,7 +11,7 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
 
 
 ### Chapter 03 - Linear Regression
-- Conceptual   [[github](https://github.com/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.01-07%20-%20Linear%20Regression%20-%20Conceptual%20Exercises.ipynb) , [nbviewer]()]
+- Conceptual   [Python - [github](https://github.com/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.01-07%20-%20Linear%20Regression%20-%20Conceptual%20Exercises.ipynb) , [nbviewer](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/03.01-07%20-%20Linear%20Regression%20-%20Conceptual%20Exercises.ipynb)]
 
 
 
