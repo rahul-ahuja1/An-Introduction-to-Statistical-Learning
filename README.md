@@ -17,8 +17,8 @@ Attempted solutions to the exercises in the book ISLR by James, Hastie, Tibshira
   3.08-09 - Auto [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.08-09%20%28P%29%20-%20Auto.ipynb?flush-cache=true)]  
   3.10 - Carseats [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.10%20%28P%29%20-%20Carseats.ipynb)]  
   3.11-12 - SLR without Intercept [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.11-12%20%28P%29%20-%20SLR%20without%20Intercept.ipynb)]  
-  3.13 - Polynomial Regression [[Python](https://github.com/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/03.13%20(P)%20-%20Polynomial%20Regression.ipynb)]  
-  3.14 - Collinearity [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/7b4bd05c0a570380ee4fa42e347e8be0c698a82b/with%20Python/03.14%20%28P%29%20-%20Collinearity.ipynb)]
+  3.13 - Polynomial Regression [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/deda48fde9b926a914902588b90fabbb96ce0819/with%20Python/03.13%20%28P%29%20-%20Polynomial%20Regression.ipynb)]  
+  3.14 - Collinearity [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/7b4bd05c0a570380ee4fa42e347e8be0c698a82b/with%20Python/03.14%20%28P%29%20-%20Collinearity.ipynb)]  
   3.15 - Boston [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/7b4bd05c0a570380ee4fa42e347e8be0c698a82b/with%20Python/03.15%20%28P%29%20-%20Boston.ipynb)]
 
 
